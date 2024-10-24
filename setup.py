@@ -10,7 +10,7 @@ __version__ = "0.0.0"
 # Package information
 REPO_NAME = "Text-Summarization"
 AUTHOR_USER_NAME = "Mostapha EL ANSARI"
-SRC_REPO = "testSummarizer"
+SRC_REPO = "textSummarizer"
 AUTHOR_EMAIL = "mostapha.elansari@centrale-casablanca.ma"
 
 # Read the dependencies from the requirements.txt file
